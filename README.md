@@ -30,3 +30,5 @@ GoodBye
 Emaan Taquie
 
 Edit added by Sherry
+## Collaboration Acknowledgement 
+This project was reviewed and edited by Sherry on GitHub
