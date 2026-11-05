@@ -11,6 +11,9 @@ and displays how much user withdrew and the reamining balance.
 2. Enter starting balance and money withdrawal input.
 3. View the calculated balance and withdrawal output.
 
+## Example Input
+345
+
 ## Example Output
 Enter starting balance: 
 345
@@ -19,8 +22,11 @@ Enter amount to withdraw (0 to exit):
 Withdrew: 90.0 Balance: 255.0
 Enter amount to withdraw (0 to exit):
 0
-Goodbye
+GoodBye
+
 
 
 ## Author
 Emaan Taquie
+
+"Edit added by Sherry"
